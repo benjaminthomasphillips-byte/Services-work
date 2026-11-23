@@ -27,7 +27,7 @@ The prompt told the agent to say so first if an hour of Ben's time would do more
 10. One claim a month, at most five sources filed, one strand run twice to see how much is noise.
 
 **What the pilot showed.**
-- Nine scouts proposed 40 sources in under two hours. None was already held. Independent verifiers re-opened 31 so far: no altered quotation, three failed, and most of the rest needed a corrected title.
+- Nine scouts proposed 40 sources in under two hours. None was already held. Independent verifiers re-opened all 40: no fabricated or altered quotation, three failed outright, and most of the rest needed a corrected title.
 - Three author deep-dives (Chroma, Ramez Naam, Eilla) all came back "watch". In each, the value was in the primary sources the author pointed to. This rests on three cases the orchestrator chose, so treat it as a working rule, not a finding.
 - Chroma, which appears five times in the library and supplies the question at the end of your digest, has by its own website bought nothing, names no people and published all its papers in October and November 2026. Its "about 5.5x" for small companies is not in the source it cites.
 - The seat that was missing entirely, regulators and insurers, produced strong primary documents in English, Dutch and German within an hour.
@@ -36,7 +36,7 @@ The prompt told the agent to say so first if an hour of Ben's time would do more
 
 **What it could not see.** Buyers of services in their own words. Juniors. Works councils. An established private mid-market services firm with numbers. Small-company prices in Europe. Paywalled trade and financial press. Charts. Anything private to you.
 
-**Filed in this run:** 11 new Sources, listed in section 6. The prompt allowed 25. I cut it after the red team's point that volume is the opposite of the goal.
+**Filed in this run:** 12 new Sources, listed in section 6. The prompt allowed 25. I cut it after the red team's point that volume is the opposite of the goal.
 
 ## 2. Audit
 
@@ -200,7 +200,7 @@ The brief each scout received is in the repository file named at the end of this
 - The red team's caution: a forced choice written by the agent records your view inside the agent's frame. So the first questions are open ones about your context.
 
 ### Cadence and cost
-- This run used about 3.5 million tokens across 15 subagents and about two hours of wall-clock time. I do not have a money figure. Scouts cost 150,000 to 300,000 tokens each.
+- This run used about 4 million tokens across 16 subagents and about two hours of wall-clock time. I do not have a money figure. Scouts cost 150,000 to 300,000 tokens each.
 - Proposed: one claim a month, three or four scouts, one verifier, one checker. Roughly a third of this run.
 - Maintenance weekly, small: inbox, follow-ups due, the "follow" calendar.
 - At each major model release: re-test dated negative results (finding L019).
@@ -217,11 +217,15 @@ The brief each scout received is in the repository file named at the end of this
 
 **Scale.** Two auditors, nine scouts, three verifiers, one red team, one librarian. 40 candidates proposed.
 
-**Verification so far (31 of 40 re-opened live).**
+**Verification (all 40 re-opened live by three verifiers).**
 - No fabricated or altered quotation.
 - 3 failed. RWS: the title tied a profit fall to LLMs, the source attributes it to mix, a regulated-industries division and currency, and the next year returned to growth. Cognizant: the title's contrast between fixed-price and hourly work is contradicted in the same answer. William Blair: a personally watermarked client-only report, and "automation savings" was the scout's gloss. Its capture was deleted.
 - Most of the rest passed with corrections. The recurring fault: titles turned expectations, targets and silences into findings. Examples: "AI cuts" where the speaker said "we are going to"; "cost a year's profit" where the company gave several causes; "do not exclude or load for AI" where the source was silent.
 - Every results-call statement had been labelled "original evidence" by a scout. They are company claims.
+- The register scout stopped one level short on Supa. The firm's own site names the parent, Supa Technology Holdings Ltd (16268091), which filed its first accounts on 20 November 2026: company-only, 8 average staff, net liabilities of about £1.17m. The scout had reported "no accounts filed yet" from the subsidiary.
+- The scout's inference that Debtist's sale completed around the end of June 2026 is not supported by anything readable. It is struck. The verifier did find the firm's own imprint, which links the German and UK companies.
+- "Loss-making" for Eilla is derived from a movement in reserves of about £0.88m. No profit and loss account was filed.
+- Eilla's "$633K" is the middle of three values running from about $163K to $8.9M. In effect it is one deal.
 
 **What the evidence now says, tagged.** These lines replace the stronger ones I wrote before verification. The red team was right about those.
 
@@ -250,7 +254,10 @@ The brief each scout received is in the repository file named at the end of this
 
 *C15.* [verified] The "~5.5x" for companies valued under $10M has no traceable source. The data provider Chroma cites covers deals of $10 million to $500 million. The 12.5x is real but is a median from a different, larger-deal sample.
 
-*C24, AI-native margins.* No measured evidence. The register check could not test it. Dwelly and the other register items are with the third verifier at the time of writing, so I have not filed them.
+*C24, AI-native margins.* No measured evidence, and filings of young private firms cannot supply it.
+- [observed; unaudited filing; UK start-up roll-up] Dwelly's legal entity, Prospire Technologies Ltd, filed group accounts for 2025 showing a £3.7m loss after £1.0m of goodwill amortisation, 104 average staff and no income statement or turnover. That is not an operating margin and cannot be set against the firm's press figures.
+- [observed] One acquired agency reported average staff of 15, 14, 10 and 11 across four periods. It is one subsidiary of nine and one period straddles the takeover, so it shows a direction at most.
+- [author's own words] Lazarov: the margin numbers are "early, mostly self-reported, and produced by the people raising money on them".
 
 *C02.* [figures from company releases; savings are a forecast] q.beyond calls a restructuring "KI-getrieben": about 10% of German staff, €5 to 6m of one-off costs, a target of about €7m a year from 2027. Guidance fell for several reasons. Demand was weak.
 
@@ -267,7 +274,26 @@ The brief each scout received is in the repository file named at the end of this
 8. After the red team: your input first; findability out of the score; conclusions gated; evidence at your scale; lower volume; a compliance check on tools.
 
 **Sources filed in this run.** Each page says you did not save it and how it was found.
-FILED_SOURCES_PLACEHOLDER
+- [Chroma home page: self-description of a pre-fund firm; its chart's 5.5x and 6.2–6.7x bars are not found in the GF Data source it cites](https://app.notion.com/p/4215f5db20d7819a8fe8e8c815983ed5). A provenance record for the Chroma items already held.
+- [CMA: at least three of five acquiring vet groups raised prices about 9% within four years of buying a practice](https://app.notion.com/p/4215f5db20d7814394e0fc2489e1de1d). Analogue.
+- [Court of Appeal, Mazur v CILEX: litigation tasks can be delegated; responsibility cannot](https://app.notion.com/p/4215f5db20d781adae02c9c016a51dea). Does not mention AI.
+- [SRA warning notice on misuse of AI](https://app.notion.com/p/4215f5db20d781aba392fcc335b70ccf).
+- [Dutch bar (NOvA), non-binding recommendations on AI](https://app.notion.com/p/4215f5db20d7818581c3cfb61d66448a).
+- [WPK FAQ on AI in audit practice](https://app.notion.com/p/4215f5db20d7815690cce9b0ed2e8608).
+- [q.beyond: a restructuring the company calls AI-driven](https://app.notion.com/p/4215f5db20d7812d8fdee143a3a61e5d). Check by 30 November 2027.
+- [Genpact filings, 2026](https://app.notion.com/p/4215f5db20d781b59cd3e779b5661b16). The title's figures are for the third quarter.
+- [HCLTech Q4 FY26 call](https://app.notion.com/p/4215f5db20d781379e6ffb9cc33eb27f). Company claim.
+- [Infosys Q2 FY27 call](https://app.notion.com/p/4215f5db20d781adb0e9e87143e57efd). Company claim.
+- [Fedyk et al. on AI in US audit firms, 2010–2019](https://app.notion.com/p/4215f5db20d781b982f8eeffada3a56d). Pre-AI analogue.
+- DWELLY_LINE
+
+Limits of the filing, as the librarian reported them:
+- Duplicates were checked against Sources only, not Cases or the old Intake log.
+- Authors were taken from the captures and the verifier's notes; live profiles were not re-opened.
+- Possible links were written from this page's claim labels; the syntheses and findings were not re-read.
+- Relations to Syntheses, Rests on and Notes are left empty. Suggestions are text in Possible links.
+- Captured text is excerpts, with the cuts stated on each page.
+- A few supporting facts on the Chroma page (the GF Data coverage sentence, the PitchBook sentence, the account and domain dates) come from the scout and verifier and are marked on the page as not in the capture.
 
 **Passed verification but not filed.** Say the word and they go in.
 - Hammer et al. on buy-and-build returns.
@@ -281,12 +307,17 @@ FILED_SOURCES_PLACEHOLDER
 - The de Jong & Laan interview and the Bregman dismissal.
 - Three Chroma papers.
 - The FRC guidance.
+- Three Lazarov newsletter editions and the anonymous rival map (a weak cross-check: its directory omits most large roll-ups).
+- Register entries for Garfield.Law, Debtist (UK part) and Supa (parent company accounts).
 
 **Corrections the library needs, proposed, not made.**
 - The four held Chroma sources and Cases N051, N052, N053 and N061 should carry a note on Chroma's standing.
 - A003's "5.5x against 12.5x" should be reworded.
 - The held Eilla map item should carry the resolved "$633K" label.
-- Dwelly (F004) can be resolved to its legal entity once the verifier confirms it.
+- Dwelly (F004) can be resolved to Prospire Technologies Ltd, company number 14991567, confirmed from the firm's own footer.
+- Supa (N073): the parent is Supa Technology Holdings Ltd (16268091), which has now filed first accounts.
+- Debtist (N062): the firm's imprint confirms Debtist GmbH (HRB 135122, Frankfurt) and Debtist Ltd (16592439). Completion of the sale remains unconfirmed.
+- Garfield.Law (N065): company number 14848790; one employee in the year to 31 May 2025.
 - The held "Law.com International" LinkedIn row may be a reshare by someone at a legal AI vendor; the link slug suggests so.
 
 **Failures, by name.**

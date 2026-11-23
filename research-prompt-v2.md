@@ -29,6 +29,15 @@ Use these to point the search, not to fence it in. If a scout finds something go
 - Prefer recent material for what people are doing now (the last six months). Older material is welcome for ideas.
 - Your own memory is a source of leads only. Never state what a firm or person is doing now without a dated source found in this run.
 
+## Planning the sweep
+
+- Seeds: the authors behind the sources Ben saved and the library rates highest (his taste is the best signal), a few searches per lens, and two deliberate outsider seeds per scout.
+- Edges to snowball along: citations and links; Substack recommendations (public); podcast appearances, as guest and as host; co-authors and colleagues; quote-posts, replies and arguments; speaker lists; reading lists.
+- Triage each node in about two minutes. Expand only if new to the library, specific, first-hand or original, and recent or plainly useful. Stop a branch after two weak hops. About 25 nodes per scout.
+- X: use it to find people, then read their long-form. Without login, web search restricted to x.com, public profile pages, single posts and unrolled threads work; X search, following lists and full replies do not. Keep it low-volume and public.
+- Two rounds. Round 1: four scouts, each returning finds plus leads not followed and the edges walked. Between rounds the orchestrator merges leads, removes duplicates, and picks the 15 to 20 most promising unexplored nodes, favouring those several scouts reached independently. Round 2: three scouts expand them. Then the librarian files.
+- Keep the leads map. It is the starting point for the next sweep.
+
 ## Standard for bringing something back
 
 - Interesting, specific and relevant to the three questions is enough. It does not need to be proven. The technology is young and measured outcomes are scarce.

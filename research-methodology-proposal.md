@@ -83,21 +83,19 @@ Read-only, by two auditors. Figures are as of 23 November 2026.
 
 Extracted by an agent from the five syntheses, the findings and the digest. **The red team's objection stands: these are the agent's questions until you mark them.** Scores are one auditor's 1 to 5 guesses for decision weight (D) and uncertainty (U). They give an order, not a measurement. I have dropped "findability" from the score and show it as a route.
 
-| Claim | D x U | Route |
-|---|---|---|
-| C01 A provider keeps enough of an AI cost saving, for long enough, to pay for the transition; the pricing basis mainly decides | 25 | Public for large listed firms. Not public at your scale. |
-| C14 An AI platform roll-up of services firms is repeatable | 25 | Mostly not public. Both large cases are private. |
-| C24 AI-native services firms earn materially better margins | 25 | Not public. Filings of small firms do not show it. |
-| C03 The licensed, liable signature keeps its commercial value | 20 | Public for the rule. Fee data is not public. |
-| C23 Ownership is needed to capture the value; a mandate is an untested substitute | 20 | Not public. |
-| C05 Clients take the work in-house with the same tools | 16 | Partly public (surveys). One named case held. |
-| C07 Capacity-bound firms keep the saving; demand-bound firms give it away; the bottleneck moves | 16 | Partly public. |
-| C21 The fee basis can be moved off hours, and a firm doing so keeps the gain | 16 | Partly public. |
-| C09, C10, C16 (coordination of physical work; third-party-paid fees; what is slow to copy) | 16 | Mixed. |
-| C08 Price deflation is the base case in time- or unit-priced services | 15 | Public. |
-| C13 The buy-and-change route is crowded and prices may already reflect it | 15 | Paid deal data. |
-| C02, C04, C06, C11, C12, C15, C17 | 12 | Mixed. |
-| C18, C19, C22, C20 | 6 to 9 | Lower priority. |
+- **C01 A provider keeps enough of an AI cost saving, for long enough, to pay for the transition; the pricing basis mainly decides** Score 25. Route: Public for large listed firms. Not public at your scale.
+- **C14 An AI platform roll-up of services firms is repeatable** Score 25. Route: Mostly not public. Both large cases are private.
+- **C24 AI-native services firms earn materially better margins** Score 25. Route: Not public. Filings of small firms do not show it.
+- **C03 The licensed, liable signature keeps its commercial value** Score 20. Route: Public for the rule. Fee data is not public.
+- **C23 Ownership is needed to capture the value; a mandate is an untested substitute** Score 20. Route: Not public.
+- **C05 Clients take the work in-house with the same tools** Score 16. Route: Partly public (surveys). One named case held.
+- **C07 Capacity-bound firms keep the saving; demand-bound firms give it away; the bottleneck moves** Score 16. Route: Partly public.
+- **C21 The fee basis can be moved off hours, and a firm doing so keeps the gain** Score 16. Route: Partly public.
+- **C09, C10, C16 (coordination of physical work; third-party-paid fees; what is slow to copy)** Score 16. Route: Mixed.
+- **C08 Price deflation is the base case in time- or unit-priced services** Score 15. Route: Public.
+- **C13 The buy-and-change route is crowded and prices may already reflect it** Score 15. Route: Paid deal data.
+- **C02, C04, C06, C11, C12, C15, C17** Score 12. Route: Mixed.
+- **C18, C19, C22, C20** Score 6 to 9. Route: Lower priority.
 
 For each of the top eight the auditor named the single most useful missing evidence. In short: a three-year series of unit price, unit cost and margin through one renewal cycle (C01); fee trends for signed work against production hours, and an actual insurer wording (C03); margin by acquisition cohort (C14); any audited margin for an AI-native firm (C24); share of corporate spend moved in-house across many buyers (C05).
 
@@ -285,7 +283,7 @@ The brief each scout received is in the repository file named at the end of this
 - [HCLTech Q4 FY26 call](https://app.notion.com/p/4215f5db20d781379e6ffb9cc33eb27f). Company claim.
 - [Infosys Q2 FY27 call](https://app.notion.com/p/4215f5db20d781adb0e9e87143e57efd). Company claim.
 - [Fedyk et al. on AI in US audit firms, 2010–2019](https://app.notion.com/p/4215f5db20d781b982f8eeffada3a56d). Pre-AI analogue.
-- DWELLY_LINE
+- [Prospire Technologies Ltd (Dwelly), unaudited FY2025 group accounts](https://app.notion.com/p/4215f5db20d7815ebe45e8cd53316a7b). Linked to Case F004. Check by 30 September 2027.
 
 Limits of the filing, as the librarian reported them:
 - Duplicates were checked against Sources only, not Cases or the old Intake log.

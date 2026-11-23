@@ -1,73 +1,68 @@
-# Research prompt v2: ideas on how services businesses are being rebuilt
+# Research prompt v2: discovery sweep
 
-Written 23 November 2026, replacing the approach in `research-methodology-prompt.md`. That version aimed at grading evidence. This one aims at finding and sharpening ideas.
+Written 23 November 2026, replacing the approach in `research-methodology-prompt.md`. That version aimed at grading evidence. This one is an open-ended discovery sweep: more sources and more ideas, across any kind of organisation.
 
 Paste the block below into a fresh agent session that has the Notion connector, web search, and Firecrawl or Hyperbrowser if available.
 
 ````text
-You are researching how services businesses are being rebuilt in a world of AI, for Ben's Thoughts Library in Notion. The aim is new and sharper ideas, not proof. You orchestrate a small team of subagents.
+You are running a discovery sweep for Ben's Thoughts Library in Notion. The aim is to find good sources and ideas the library does not have: new people, new firms, new practices, new arguments. Breadth and novelty matter more than proof. You orchestrate a small team of subagents.
 
 Library root: https://app.notion.com/p/Thoughts-Library-4215f5db20d78154a42dfab8b438005c
 
-## Who this is for
+## What the library is about
 
-Ben invests in and builds businesses. His library serves three questions: how businesses should be built, how investment platforms should be built, and how processes should run and organisations keep improving, with AI as the main lens. He wants to form his own theses and operating models.
+How organisations should be built and keep improving in a changing technological world, with AI as the main lens. Its three standing questions: how businesses should be built; how investment platforms should be built; how processes should run and organisations keep improving, with or without AI. Any kind of organisation counts: software companies, AI labs, services firms, manufacturers, funds and investment firms, public bodies, small businesses, one-person companies.
 
-Scope is services in general: professional services (law, accounting, tax, audit, consulting), business services and outsourcing, field and property services, financial and insurance services, healthcare administration, logistics services, agencies. Do not narrow to one sector or deal size.
+## The four lenses
 
-## The four questions
+Use these to point the search, not to fence it in. If a scout finds something good that fits none of them, it brings it back.
 
-1. Who is thinking furthest ahead about how services businesses will be built and run? Operators, investors, researchers, writers.
-2. What operating models are emerging? How the work, the people, the pricing, the review of quality and the technology are being organised, in new firms, roll-ups and incumbents that are redesigning.
-3. What mechanisms are practitioners describing from first-hand experience? What they automated, what broke, how exceptions and review are handled, what happened to pricing, hiring and junior staff, what it cost and how long it took.
-4. What ideas are not in the library at all? Including from other fields, earlier eras, other languages, and people who disagree with the prevailing view.
+1. Who is thinking furthest ahead about how organisations will be built and run?
+2. What operating models are emerging, in new firms and in incumbents that are redesigning themselves?
+3. What mechanisms are practitioners describing from first-hand experience: what they changed, what broke, what it cost, what they learnt?
+4. What ideas are not in the library at all: from other fields, earlier eras, other languages, and people who disagree with the prevailing view?
 
-## Standard of evidence
+## How to search
 
-This is idea work. The technology has been in real deployment for about 18 months, so expect few measured outcomes. Do not treat their absence as a finding.
-
-- A clear, specific idea from someone well placed is worth recording even if unproven. Label confidence (high, medium, low) and say in one line why.
-- Note who is speaking and what they gain, in one line. Do not discount someone for having an interest: operators with money at stake are often the best informed.
-- Judge sources by the quality of their reasoning: specific, mechanistic, early, willing to say what would change their mind. Not by whether a document can verify them.
-- Quote the key line for each idea so it can be traced. No verification layer.
-- Prefer the last six months for what practitioners are doing. Older material is welcome for ideas and analogies.
+- Follow threads. When a source is good, look at who the author reads, cites, argues with or works alongside, and follow the best of those. Snowballing is the method, not a risk to be managed. To avoid staying in one cluster, each scout should deliberately jump to at least two places the library has nothing from.
+- Look beyond X and LinkedIn: newsletters, long essays, podcasts and talks with transcripts, company engineering and operations blogs, investor letters, academic papers, books, trade press, non-English sources.
+- Prefer recent material for what people are doing now (the last six months). Older material is welcome for ideas.
 - Your own memory is a source of leads only. Never state what a firm or person is doing now without a dated source found in this run.
+
+## Standard for bringing something back
+
+- Interesting, specific and relevant to the three questions is enough. It does not need to be proven. The technology is young and measured outcomes are scarce.
+- For each find, record who is speaking and their position or interest in one line, and why it is worth Ben's time in one line. Do not discount someone for having an interest.
+- Skip only what is generic, recycled, or already in the library.
 
 ## Before starting
 
-1. Read "Instructions for the agent" in the library. Its rules on not editing Ben's Notes or Theses, and on recording what you could not retrieve, apply.
-2. Skim the One line column of Sources, the titles of Syntheses, Findings and Cases. The purpose is to know what the library already holds, so the team can look for what is missing. Do not audit it.
+1. Read "Instructions for the agent" in the library. Its ingestion rules apply to everything filed, and so does the rule never to edit Ben's Notes or Theses.
+2. Skim the Sources titles and authors, and the titles of Cases and Syntheses, so the team knows what is already held and can look past it. Do not audit the library.
 3. Check which retrieval tools work: web search, direct fetch, Firecrawl, Hyperbrowser.
 
 ## Team
 
-Run four scouts in parallel, then one synthesiser. Nothing else: no auditors, verifiers or red team.
+Four scouts in parallel, then one librarian. No auditors, verifiers or red team.
 
-Give every scout the four questions, the scope, the evidence standard above and a list of the authors and firms the library already holds, so they look beyond them. Each returns at most eight items. For each item: who, what the idea or practice is, the mechanism, the key quotation, link, date, the speaker's position and interest in one line, confidence, and which of the four questions it serves.
+Give every scout the lenses, the search approach, the standard above, and the list of authors and organisations the library already holds. Each scout brings back 10 to 20 finds. For each: link; title; author and position; date; a few lines on what it says; the key quotation; why it is worth Ben's time; which lens it serves (or "other"). Each scout also returns a list of leads it did not have time to follow.
 
-- **Scout A, frontier thinkers.** Find 8 to 10 people thinking furthest ahead on services and AI. At least half must not already be in the library, and at least a third must be outside the US or outside X and LinkedIn: newsletters, podcasts with transcripts, conference talks, academic work, books, trade press. For each, extract their two or three best ideas, what they predicted earlier and how it went, and who they argue with.
-- **Scout B, operating models.** Find 6 to 8 firms whose way of delivering a service has visibly changed. Cover several sectors and at least two countries outside the US, and mix new firms, roll-ups and incumbents. For each: how work flows, roles and ratios, how quality is checked, how they price, what technology they built or bought, what they say does not work.
-- **Scout C, practitioner mechanisms.** Find first-hand accounts from people doing the work or running it: founders, COOs, partners, heads of operations, engineers deployed inside service firms. Look for the concrete: the workflow before and after, where humans still sit, how exceptions are handled, what changed in pricing or hiring, cost and time to deploy, failures and reversals.
-- **Scout D, gaps and outside views.** Find ideas the library lacks. Analogies from earlier shifts in services (offshoring, process outsourcing, lean and Toyota-style improvement, the move to software in accounting or legal); work from other fields such as operations research, labour economics, organisation design and the professions literature; non-English sources (Dutch, German, French, Nordic at least); and the strongest people who disagree with the prevailing AI-in-services story.
+- **Scout A, people.** Find people thinking furthest ahead on how organisations are built and run with AI. At least half new to the library; at least a third outside the US or outside X and LinkedIn. For each, their best two or three pieces.
+- **Scout B, organisations.** Find firms of any kind whose way of working has visibly changed: how work flows, roles and ratios, how quality is checked, how they price, what they built. Mix sizes, sectors and countries; include investment firms.
+- **Scout C, practice.** Find first-hand accounts from people doing or running the work: founders, operators, engineers, partners, heads of operations, people inside funds. The concrete detail: before and after, where humans still sit, what failed, what they would do differently.
+- **Scout D, outside the frame.** Find what the library's current sources would not lead to: earlier shifts and their lessons, other fields (organisation design, operations, labour economics, the professions, management history), non-English writing, and the strongest people who disagree.
 
-**Synthesiser.** Reads every scout return and the library's existing Syntheses, then writes an idea memo with these sections:
+**Librarian.** The only agent that writes to Notion. Ingests every find that meets the standard as a Source, following the Instructions page (full text retrieved where possible, author checked, properties set, page body in the set order). Each page states that Ben did not save it and how it was found. Adds possible links to existing syntheses and findings where obvious, without changing them.
 
-1. The ten to fifteen most useful ideas. For each: the idea in one sentence; who is saying it and from what position; the mechanism; why it matters for building, buying or running a services business; confidence and why; what would change the view; what it adds to, sharpens or contradicts in the library.
-2. Emerging operating models: a short comparison of the patterns seen, with named examples.
-3. People worth following: eight to twelve names, one line each on why and where they publish.
-4. Ideas not in the library before this run.
-5. Open questions worth Ben's thought, at most five.
+## What Ben gets
 
-Write for Ben: plain English, short sentences, implications first, no hedging for its own sake.
+1. The new Sources in the library: expect 40 to 70.
+2. One short discovery note, as a page under the library root: what was found, grouped loosely by theme; people and publications worth following; ideas that are new to the library; and the list of leads not followed, so a later sweep can pick them up. Keep commentary brief. This is a map of what was found, not a set of theses.
+3. One Log entry listing what was done and each retrieval failure by name.
 
-## Writing to the library
+## Limits
 
-- Create the memo as one new page in the Syntheses database, Kind "Framework" or "Hypothesis", Status "Draft", with a callout saying the agent drafted it and it is not Ben's view.
-- File as Sources only the items that anchor the top ideas, at most twelve, following the Instructions page for ingestion. Each page says Ben did not save it and how it was found.
-- Add one Log entry listing what was done and each retrieval failure by name.
 - Do not edit Notes, existing Theses, Findings, Cases, inquiry areas or the Instructions page.
-
-## Budget
-
-Four scouts and one synthesiser. If a scout finds little, it says so and stops; do not send more agents. Report the token cost at the end.
+- Do not get round paywalls or sign-in walls. Record what could not be retrieved.
+- Report the token cost at the end.
 ````

@@ -1,3 +1,5 @@
+> Superseded on 24 November 2026: this was a first pass written without research or checking. Kept for the record.
+
 # Unit 2. The world in 2035, and what it means for what we build in 2027
 
 Draft by Claude, 24 November 2026. These are forecasts and inferences, stated sharply so they can be argued with. Each has a confidence level, a signpost to watch and a "so what" for the design. Library and discovery-sweep records are named where they prompted a point.

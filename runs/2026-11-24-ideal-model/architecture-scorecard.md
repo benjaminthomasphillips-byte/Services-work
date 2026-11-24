@@ -137,3 +137,78 @@ The first architecture was a firm serving one principal in a cooperative world. 
 If the architecture survives home care, it is general. If G5 breaks there, the architecture is a design for **information services with physical edges**, not for care [reasoned].
 
 **Second test: cross-border payroll** [reasoned], as the control case. It is continuous, single-principal and cooperative, so the core should hold. But it forces custody of large sums (C3), many regulators (C2) and guarantees against penalties (C1). If it bends where accountancy held, section 5's conditions are wrongly stated. **Statutory audit** would be the purest test of G7: the payer is the audited company, the beneficiaries are shareholders and the public [reasoned; claims 9.2 predicts this].
+
+---
+
+## 7. Home care: the sixth test
+
+Added 24 November 2026. It reads the revised `level3-homecare.md`, which scored itself (its section 10) after three reviews written in character. Its verdicts are kept; what they mean is judged here. Section 1's caution applies more strongly: one author designed, scored and now interprets [reasoned].
+
+### 7.1 The verdicts
+
+| # | Verdict | Reason |
+| --- | --- | --- |
+| **G1** Shared record | **BENDS** | The "thing" is a body and a daily life. The person owns the record; their voice comes first; parts are hidden from some parties |
+| **G2** Never an unchecked payee | **BENDS, to the limit** | The payee also judges need. Holds only with a person-held time record, independent band review and open books |
+| **G3** Policy as work | **BENDS** | Policy in values; capacity fluctuates |
+| **G4** Conditions and moments | **BENDS** | Decline means conditions cannot always be kept true; judged against a trajectory |
+| **G5** People at the edges | **BREAKS** | People are the centre; the product is a human act |
+| **G6** Capability where information is born | **BENDS** | Band authority stays with the payer, whose systems cannot yet read the live view |
+| **G7** Duties and controls | **BENDS, much heavier** | A rationing payer, a beneficiary who may not speak; adds advocacy for need and a market duty |
+| **G8** Evidence rules | **BENDS** | Limits on collection too: consent per sensor, a right to be unobserved |
+| **C1** Priced outcomes | **BENDS** | Only on what the team controls; needs a payer who can hold the saving |
+| **C2** The standard | **HOLDS** | Many readers; a neutral national standard |
+| **C3** Holding money | **BENDS** | Direct payments make the firm holder and payee |
+| **C4** Pooled data | **BENDS** | Evidence mostly company claims; named purposes only |
+| **C5** Mandate chain | **BENDS** | Authority recorded per type of decision |
+| **C6** Custody beyond the firm | **BENDS** | Providers fail often; portability and step-in |
+| **C7** Surge capacity | **BREAKS as a conditional** | Peaks every morning and evening |
+| **C8** Licensed definition of good | **BENDS** | Councils will not license from a rival; a neutral company |
+| **C9** Pace set by the client | **BREAKS as a conditional** | The person sets the pace every day, not only in crisis |
+
+**Tally:** holds 1, bends 13, breaks 3. The first service with any break, and the first where no core element holds.
+
+### 7.2 What the breaks mean
+
+Two kinds of break need separating [reasoned].
+
+**C7 and C9 break as conditionals, not as ideas.** Their condition is met every day, so they were filed in the wrong place. That is a fault in section 5's sorting, drawn from services where time had no daily shape. It is cheap to fix.
+
+**G5 breaks in substance.** Section 6 set the test: if G5 breaks, the architecture is a design for information services with physical edges. It did. One refinement: the information logic still holds in home care. The record, conditions, standing policy and agents doing every task that is not a human act are what free the human centre. What fails is the claim about the firm's centre of gravity. Here the firm manages a workforce against the clock, inside a public market. The architecture describes the support layer of that firm, not the firm [reasoned].
+
+So the architecture is general **as the information layer of any service**, and general **as the whole firm** only where the product is information or a decision [reasoned].
+
+A warning [reasoned]. Fourteen of seventeen elements bend, and each bend adds a check, a reviewer or a duty. An architecture that survives only with so many qualifications is close to a checklist. The core still earns its place, because each bend kept the element's purpose and changed its form. But the drift since section 1 (holds falling, bends rising, now breaks) is the clearest sign yet that the core was cut too tight around accountancy.
+
+### 7.3 What home care adds
+
+Home care proposes eight additions. Judged across all six services [reasoned]:
+
+| Addition | Status | Why |
+| --- | --- | --- |
+| **G9 The workforce as a designed condition** | **Core, sized by the service** | Hinted at by lettings' technicians and claims' crews. Where workers sit on the client's critical path, their condition is the client's |
+| **G10 The service survives the firm** | **Core; absorbs C6** | Portability helps every client. Decades-long custody stays conditional within it |
+| **G11 Capacity shaped to demand in time** | **Core** | Every service has a time shape: tax deadlines, storms, winter deaths, breakfast. Seasonal surge stays C7 |
+| **Pace set by the person** | **Conditional, widened** | Home care says core, but in a ledger the client's pace is irrelevant. C9 becomes: *when the service acts on a person's life or body, or the person is in crisis* |
+| **Rules on observation** | **Folded into G8** | Limits on collection, weighted heavily *when the service enters a home or a body* |
+| **A rationed public payer** | **New C10** | *When the payer gains from less service*: separate finding need from paying for it |
+| **Decline as the trajectory** | **New C11** | *When the thing served declines* (a body, an estate, an ageing building): measure against a path; plan the end |
+| **Unpaid co-producers** | **New C12** | *When unpaid parties produce part of the service*: bring them inside, paid where wanted |
+
+Place and density is a parameter, not an element; section 4's "physical intensity" already covers it.
+
+### 7.4 How the parameters explain the result
+
+**Alignment of principals.** Not opposed, as in claims, but misaligned: the payer gains from less care, the person may not speak, the family has views, the NHS holds the savings. Section 4 knew only aligned or opposed. Home care adds **a payer whose interest runs against the beneficiary's without hostility**. That explains the heavy bends in G2, G7 and C1 [reasoned].
+
+**Continuous or episodic.** Home care is continuous, so section 4 predicted G4 would hold. It bends because the thing declines. A new parameter is needed: **the trajectory of the thing**, improving, stable or declining [reasoned].
+
+**Who pays.** The split is three-way: council pays, person benefits, NHS saves. When the saver is not the payer, priced outcomes fail unless money is pooled [reasoned].
+
+**People at the centre.** Lettings and claims were physically intense, yet G5 only bent: a repair can be scheduled, and its human part is a means. In home care the human act is the end. Physical intensity did not predict the break; **the share of value that is a human relationship** did. Section 4 lacked that parameter [reasoned].
+
+**Labour as the constraint.** Accountancy and lettings needed a quarter or less of a traditional firm's people; home care needs two thirds to three quarters [conjecture]. When labour does not compress, agents are judged by human time returned, and the firm's main work is recruiting, keeping and shaping people. That is why G9 and G11 appear here first [reasoned].
+
+### 7.5 The general architecture, restated, and its limits
+
+**A firm that keeps a shared record true, acts where its client's acts take effect, and is built to be trusted by the parties it does not serve; that keeps its workforce and its capacity in time as conditions, alongside the client's; and that is designed so the client can leave it intact.** Agents do everything that is not judgement, accountability or a human act, and are measured by the human time they free. Its limits are now clear. It is general as the information and coordination layer of any service. It is the whole design only where the product is information, a decision or a scheduled physical task. Where the product is a human relationship, it is the support layer around a workforce. There, the hardest problems (labour supply, a rationing payer, savings that land elsewhere, a market that must outlive the firm) are ones it can frame but not solve. Today's rules do not change this: home care's stress test left its core intact and moved the weight onto commissioning. All verdicts come from one author. Cross-border payroll (section 6) is now the more urgent test: a core widened this far must still hold where nothing should bend [reasoned].

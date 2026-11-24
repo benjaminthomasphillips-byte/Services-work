@@ -212,3 +212,74 @@ Place and density is a parameter, not an element; section 4's "physical intensit
 ### 7.5 The general architecture, restated, and its limits
 
 **A firm that keeps a shared record true, acts where its client's acts take effect, and is built to be trusted by the parties it does not serve; that keeps its workforce and its capacity in time as conditions, alongside the client's; and that is designed so the client can leave it intact.** Agents do everything that is not judgement, accountability or a human act, and are measured by the human time they free. Its limits are now clear. It is general as the information and coordination layer of any service. It is the whole design only where the product is information, a decision or a scheduled physical task. Where the product is a human relationship, it is the support layer around a workforce. There, the hardest problems (labour supply, a rationing payer, savings that land elsewhere, a market that must outlive the firm) are ones it can frame but not solve. Today's rules do not change this: home care's stress test left its core intact and moved the weight onto commissioning. All verdicts come from one author. Cross-border payroll (section 6) is now the more urgent test: a core widened this far must still hold where nothing should bend [reasoned].
+
+
+---
+
+## 8. Cross-border payroll: the control test
+
+Added 24 November 2026. It reads the revised `level3-payroll.md`, which scored itself (its section 10) after two reviews in character: an employer-of-record (EOR) builder and a head of global payroll. Its verdicts are kept; their meaning is judged here. One author designed, scored and interprets, and every review moved verdicts towards bends [reasoned].
+
+### 8.1 The verdicts
+
+| # | Verdict | Reason |
+| --- | --- | --- |
+| **G1** Shared record | **HOLDS** | Employer owns it; employee holds a linked copy; three versions (true, known, filed) |
+| **G2** Never an unchecked payee | **BENDS, deeply** | As EOR the firm is principal in law: pays first, bills after. Purpose survives; mechanism reverses |
+| **G3** Policy as work | **BENDS, mildly** | Client writes one of three rule layers; state and social partners write the rest |
+| **G4** Conditions and moments | **HOLDS** | Four conditions kept true; period close a short moment |
+| **G5** People at the edges | **HOLDS** | Product is information, money and legal status |
+| **G6** Capability where information is born | **HOLDS** | HR systems, banks, authorities; location declared by the person |
+| **G7** Duties and controls | **BENDS** | Law ranks the employee above the payer; per-month EOR revenue rewards the wrong form |
+| **G8** Evidence rules | **BENDS** | Law compels use against the employee |
+| **G9** Workforce | **HOLDS** | Scarce country and agreement experts bind |
+| **G10** Survives the firm | **UNTESTED** | Successor step-in unproven under transfer law |
+| **G11** Capacity in time | **HOLDS** | Paydays, closes, law changes, downturn exits |
+| **C1** Priced outcomes | **HOLDS** | Guarantee computation, filing, own survival; insure the rest |
+| **C2** The standard | **BENDS** | One record owner, many rule-writers |
+| **C3** Holding money | **BREAKS as a conditional** | For an EOR, holding and advancing money is daily; cannot be routed |
+| **C4** Pooled data | **HOLDS** | Error, default and mobility data pool lawfully |
+| **C5** Mandate chain | **HOLDS, on** | Filing authorities; who may change pay or bank details |
+| **C6** Custody beyond the firm | **HOLDS, within G10** | Pension records span decades |
+| **C7** Surge | **HOLDS, on** | Correlated client failure |
+| **C8** Licensed good | **HOLDS, new form** | Open rule packs; clients buy accountability |
+| **C9** Pace by the person | **HOLDS, at moments** | Illness, bereavement, exits |
+| **C10** Rationed public payer | **HOLDS, on** | Statutory pay reclaimed from state funds |
+| **C11** Decline | **HOLDS, on** | EOR ends in conversion |
+| **C12** Unpaid co-producers | **HOLDS, modestly** | Employees declare location |
+
+**Tally:** holds 16, bends 5, breaks 1, untested 1.
+
+Two holds are generous [reasoned]. **C10** needs a payer that gains from less service; a state fund reimbursing statutory pay is not this service's payer. **C11** concerns a thing that declines; a planned conversion is a designed exit, which belongs to G7 and G10. Strictly: 14 holds, two conditionals not triggered. The core is untouched.
+
+### 8.2 Is the control clean?
+
+**No** [reasoned]. Section 6 set the rule: if payroll bends where accountancy held, section 5's conditions are wrongly stated. Accountancy held E2, E3 and E6. Payroll bends their successors G2, G3 and C2, and breaks C3.
+
+The failure is narrow. **The information core held cleanly**: G1, G4, G5, G6, G11. Every bend sits in **money**, where the firm is principal in law, or in **rules and loyalty**, where others write the rules and law ranks the parties. Both trace to assumptions carried from accountancy: the firm is an agent, and the client writes the policy.
+
+### 8.3 What was wrongly stated, and the corrections
+
+1. **C3 had the wrong trigger.** It asked whether holding was safe; the real question is legal role. *Retire C3 and fold into G2:* **the money position follows the legal role.** Agent: act from the client's account under mandate; hold only through a regulated partner. Principal: advance by necessity, earn nothing from holding or converting, price credit openly, back the role with capital, make it transferable.
+2. **G3 assumed one author.** *Policy in layers, each owned by whoever has the right to write it.*
+3. **C2 had the wrong axis.** Record owners and rule-writers differ. *The record standard follows the record's owners; the rules standard is opened and co-maintained with the rule-writers.*
+4. **G7 knew two forms of duty**, neutrality (lettings) and advocacy (home care). Payroll adds **duties ranked by law**, and a general revenue rule: *the firm gains nothing from a client staying in a form or relationship that no longer suits it.*
+5. **G8 was too absolute.** *Used against its producer only where law compels, and they are told.*
+6. **C1:** never guarantee what law already gives; guarantee against the firm's own failure.
+7. **Section 4 gains two shape parameters**, **agent or principal in law** and **who writes the rules**. **Number of jurisdictions** is a scale parameter, like volume: it sets fixed cost and the boundary, not the shape.
+
+### 8.4 What custody across many jurisdictions taught
+
+1. **Custody was the wrong question** [reasoned]. Being principal removed client money: the client's payment is revenue, so paying first and billing after leaves almost nothing held. Holding becomes credit.
+2. **The risk moves; it does not vanish** [reasoned]. Client failures cluster when the firm's own funding tightens. Size credit for a bad year. Surge logic applies to money.
+3. **Money is national, so custody lives in the entity network** [reasoned]. Wages leave local accounts, in local currency, on local rails. Treasury, FX timing, local banks and personally liable directors are part of custody.
+4. **Authorities are senior creditors** [reasoned]. Paying them is never optional, and their laws (labour leasing, joint liability, payment licences) make the firm principal [seen, payroll 11.2]. Many authorities multiplied the work, not the shape.
+5. **Hidden balances matter most** [reasoned]. Accruals are the real money. A springing reserve, funded only when live cash data shows risk, is G4 applied to money.
+6. **The main risk to employees is the firm itself.** G10 is the guarantee that matters, and it is untested.
+7. **The revenue rule costs most here.** ADP earns about $1.2bn a year on client funds [seen, payroll sources]. Remove the balances rather than resist the temptation.
+
+### 8.5 The general architecture, restated after six services and the control
+
+**A firm that keeps a shared record true; acts where its client's acts take effect, in the money position its legal role requires; applies rules written in layers by those with the right to write them; is trusted by the parties it does not serve, ranking their claims as law requires and gaining nothing when its client's interest moves away; keeps its workforce and capacity in time as conditions; and is built so the client, and the client's money, survive the firm.** Agents do everything that is not judgement, accountability or a human act [reasoned].
+
+Its reach is unchanged: the whole design where the product is information, a decision, money or legal status; the support layer where it is a human relationship. The control's lesson: the core is sound, but its conditions were cut around one firm type, an agent under client-written rules. Legal role and rule authorship now sort them [reasoned]. Statutory audit remains the purest untested case of G7.

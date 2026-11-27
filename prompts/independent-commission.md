@@ -84,19 +84,25 @@ Then:
 
 Work of this kind tends to go wrong in predictable ways. Guard against each of these:
 
-1. **Being timid and evidence-bound.** Treating missing evidence as a reason to say nothing produces a cautious, committee-ready plan instead of a design. Where evidence runs out, reason forward.
-2. **The opposite: bold calls with nothing behind them.** Sharp forecasts made in one pass, without mechanism, base rates or counter-arguments, are as useless as timidity. Check your calls before you rely on them.
-3. **Automating today's work instead of redesigning it.** Listing what a firm does today and asking which tasks AI can do keeps the old shape of the work. Also ask what the service would look like if designed from the client's outcome with today's tools, and how that changes the firm's boundaries. Consider several levels of ambition, and say which wins and why.
-4. **Narrowing too early.** Do not seize on one idea (one business model, one pricing approach, one sector) and spend the work elaborating it. Explore the space first, and choose later, with reasons.
-5. **Letting today's constraints set the design.** Treating current regulation, insurance or institutional habits as the starting point shrinks the design before it has been explored. Design first, then apply the constraints as a stress test, and say which ones change the design and how.
-6. **Starting from incumbents' point of view.** Asking only established practitioners produces "the incumbent wins; sell to us". Balance the perspectives you consult: builders of new firms, investors of different kinds, practitioners, clients, regulators and people who study organisations.
-7. **Designing only the inside of the firm, or only the strategy.** An operating model without decisions on ownership, revenue, risk and distribution is incomplete. A strategy without an operating model is not a design. Cover both.
-8. **Marking your own work.** If you score your design against your own criteria, you will flatter it. Use independent critique: separate reviewers, or tests set before the design was written, and report where the design failed them.
-9. **Losing the original question.** Re-read this brief before you finish, and check you have answered every question in it.
+1. **Being backward-looking.** Research describes what firms did with the tools of the last few years. The firm you design has to win with the tools of 2027 and lead in 2035, so do not let today's examples set the limits of the design. Use the research as raw material, then look forward:
+   - what capabilities, costs and behaviours are likely by 2030 and 2035;
+   - what that makes possible that nobody has built yet;
+   - what a firm would need to be ready for it.
+
+   Feel free to infer and conjecture about the future, as long as each step is grounded in logic and labelled as conjecture.
+2. **Being timid and evidence-bound.** Treating missing evidence as a reason to say nothing produces a cautious, committee-ready plan instead of a design. Where evidence runs out, reason forward.
+3. **The opposite: bold calls with nothing behind them.** Sharp forecasts made in one pass, without mechanism, base rates or counter-arguments, are as useless as timidity. Check your calls before you rely on them.
+4. **Automating today's work instead of redesigning it.** Listing what a firm does today and asking which tasks AI can do keeps the old shape of the work. Also ask what the service would look like if designed from the client's outcome with today's tools, and how that changes the firm's boundaries. Consider several levels of ambition, and say which wins and why.
+5. **Narrowing too early.** Do not seize on one idea (one business model, one pricing approach, one sector) and spend the work elaborating it. Explore the space first, and choose later, with reasons.
+6. **Letting today's constraints set the design.** Treating current regulation, insurance or institutional habits as the starting point shrinks the design before it has been explored. Design first, then apply the constraints as a stress test, and say which ones change the design and how.
+7. **Starting from incumbents' point of view.** Asking only established practitioners produces "the incumbent wins; sell to us". Balance the perspectives you consult: builders of new firms, investors of different kinds, practitioners, clients, regulators and people who study organisations.
+8. **Designing only the inside of the firm, or only the strategy.** An operating model without decisions on ownership, revenue, risk and distribution is incomplete. A strategy without an operating model is not a design. Cover both.
+9. **Marking your own work.** If you score your design against your own criteria, you will flatter it. Use independent critique: separate reviewers, or tests set before the design was written, and report where the design failed them.
+10. **Losing the original question.** Re-read this brief before you finish, and check you have answered every question in it.
 
 ### Research first, and make it current
 
-Before designing, commission or carry out independent research so the design rests on the latest available information. The field moves fast, so prioritise the most recent material and give a date for everything you cite. In particular:
+Research is the starting point, not the limit (see the first mistake above). Before designing, commission or carry out independent research so the design rests on the latest available information. The field moves fast, so prioritise the most recent material and give a date for everything you cite. In particular:
 
 - **Build a library of real cases.** What firms have actually done with AI in services work:
   - AI-native services firms built from scratch;
@@ -139,7 +145,7 @@ If you can run several researchers or agents in parallel, do so, and say how you
 
 ### Standard of reasoning
 
-Evidence in this field is thin and moves fast, so inference and well-grounded conjecture are welcome. Use logic where data runs out. But every claim the design depends on should state:
+Evidence in this field is thin and moves fast, and the design is for 2027 to 2035, so forward-looking inference and well-grounded conjecture are expected, not merely allowed. Use logic where data runs out. But every claim the design depends on should state:
 
 - the claim itself;
 - the mechanism: why it would happen, and who gains;

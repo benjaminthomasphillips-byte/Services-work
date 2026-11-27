@@ -30,15 +30,69 @@ I have done my own thinking on this. I am deliberately not sharing it, because I
    - What would happen as it compounds, and what could go wrong?
 5. **Commoditisation.** Does AI-driven self-improvement turn ordinary services work into a commodity? If so, what is left that is scarce and valuable?
 6. **Building it.** How would you actually build this from 2027? Who needs to believe in it ("be AI-pilled") and who does not?
-7. **Variation.** How does the design change across different kinds of services business? Consider:
-   - global or local;
-   - regulated or unregulated;
-   - commodity or high-touch;
-   - advice or coordination;
-   - small-business or enterprise clients;
-   - any other dimensions you find matter more.
+7. **Variation.** How does the design change across different kinds of services business? I want real work on this, not a paragraph. See "Types of business and work" below.
 8. **Incumbents.** How would an existing, messy incumbent, with many systems, tacit knowledge and an established partnership or ownership, get to the design you propose? What does that take, and what has to be thrown away?
 9. **Where to build or invest.** What does all of this teach about the most promising areas to build or invest in?
+
+### Types of business and work
+
+The right design almost certainly differs by type of business and type of work. Build a map of services along the dimensions that matter, then design for each region of it. The dimensions should include, at least:
+
+- **Client size and sophistication:**
+  - consumers and households;
+  - small businesses;
+  - the middle market;
+  - large enterprises with their own in-house teams and AI.
+- **Rhythm of the work:**
+  - routine and recurring;
+  - continuous;
+  - ad hoc, episodic or once in a lifetime;
+  - project-based.
+- **Nature of the judgement:**
+  - work with a right or wrong answer that can be checked;
+  - work where the answer can only be known late, or never;
+  - judgement-based, contested or strategic work.
+- **What is produced:**
+  - information or a decision;
+  - money moved or legal status changed;
+  - a physical change in the world;
+  - a human act such as care or comfort.
+- **The parties:**
+  - one client whose interests are aligned with the firm;
+  - several parties;
+  - an opponent on the other side;
+  - a payer who is not the person served.
+- **Rules and place:**
+  - regulated or not;
+  - local or global;
+  - one jurisdiction or many.
+- **Any other dimension your research shows matters more.**
+
+Then:
+
+- Say which few dimensions actually drive the design, and which make little difference.
+- Give a distinct design, not a variation in wording, for each important region of the map: for example, enterprise against middle market against small business, and routine against ad hoc, and checkable against judgement-based.
+- Work through at least eight concrete services chosen to span the map as widely as possible, and say why you chose them. Include some that are likely to break your design.
+- For each, show:
+  - what the firm sells;
+  - where its people and agents sit;
+  - how it is organised;
+  - how it makes money;
+  - what is different from the general design.
+
+### Mistakes to avoid
+
+Work of this kind tends to go wrong in predictable ways. Guard against each of these:
+
+1. **Being timid and evidence-bound.** Treating missing evidence as a reason to say nothing produces a cautious, committee-ready plan instead of a design. Where evidence runs out, reason forward.
+2. **The opposite: bold calls with nothing behind them.** Sharp forecasts made in one pass, without mechanism, base rates or counter-arguments, are as useless as timidity. Check your calls before you rely on them.
+3. **Automating today's work instead of redesigning it.** Listing what a firm does today and asking which tasks AI can do keeps the old shape of the work. Also ask what the service would look like if designed from the client's outcome with today's tools, and how that changes the firm's boundaries. Consider several levels of ambition, and say which wins and why.
+4. **Narrowing too early.** Do not seize on one idea (one business model, one pricing approach, one sector) and spend the work elaborating it. Explore the space first, and choose later, with reasons.
+5. **Letting today's constraints set the design.** Treating current regulation, insurance or institutional habits as the starting point shrinks the design before it has been explored. Design first, then apply the constraints as a stress test, and say which ones change the design and how.
+6. **Starting from incumbents' point of view.** Asking only established practitioners produces "the incumbent wins; sell to us". Balance the perspectives you consult: builders of new firms, investors of different kinds, practitioners, clients, regulators and people who study organisations.
+7. **Designing only the inside of the firm, or only the strategy.** An operating model without decisions on ownership, revenue, risk and distribution is incomplete. A strategy without an operating model is not a design. Cover both.
+8. **Marking your own work.** If you score your design against your own criteria, you will flatter it. Use independent critique: separate reviewers, or tests set before the design was written, and report where the design failed them.
+9. **Losing the original question.** Re-read this brief before you finish, and check you have answered every question in it.
 
 ### Research first, and make it current
 
@@ -122,7 +176,7 @@ A single report, in plain English, structured as:
    - how it improves itself;
    - economics.
 4. **How it is built,** from 2027 to 2035, including how a firm reaches clients and grows.
-5. **How the design varies** across types of services business, with worked examples.
+5. **The map of services, and a design for each region,** with at least eight worked examples, and which dimensions drive the design most.
 6. **The incumbent retrofit.**
 7. **Where to build or invest.**
 8. **Challenges, counter-arguments and open questions,** including where your own design is weakest.
